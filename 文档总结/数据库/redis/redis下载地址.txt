@@ -1,0 +1,3 @@
+Linux：http://download.redis.io/releases/
+windows：https://github.com/MicrosoftArchive/redis/releases
+可视化工具：https://github.com/uglide/RedisDesktopManager/releases
